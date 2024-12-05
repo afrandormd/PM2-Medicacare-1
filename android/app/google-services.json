@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889496730719",
+    "project_id": "medicacare-b1b51",
+    "storage_bucket": "medicacare-b1b51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889496730719:android:9905d815463547f719efea",
+        "android_client_info": {
+          "package_name": "com.medicacare.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7YbnMHriM4dQ3iTAxS-e_6BiL8-rLStQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
